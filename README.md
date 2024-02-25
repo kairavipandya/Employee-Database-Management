@@ -1,1 +1,2 @@
-# Employee-Database-Management
+# Employee Database Management
+PRACTICE USING SQL
