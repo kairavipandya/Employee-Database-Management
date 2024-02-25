@@ -1,6 +1,3 @@
-Certainly! Below is a basic README.md file template for your SQL project on GitHub:
-
-```markdown
 # Employee Database Management System
 
 This project is a simple database management system for managing employee information, including departments, employees, salaries, and job titles. It includes a SQL schema for database creation and several SQL queries for data retrieval and analysis.
